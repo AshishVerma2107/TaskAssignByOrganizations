@@ -1,0 +1,25 @@
+<resources>
+  <string name="app_name">TasQ App</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="action_settings">Settings</string>
+  <string name="messageSpeakNow">Speak now!</string>
+
+  
+  <string name="organization_prompt">Choose a Organization</string>
+  <string-array name="organization_array">
+    <item>Organization1</item>
+    <item>Organization2</item>
+    <item>Organization3</item>
+    <item>Organization4</item>
+  </string-array >
+
+  <string name="designation_prompt">Choose a Designation</string>
+  <string-array name="designation_array">
+    <item>Designation1</item>
+    <item>Designation2</item>
+    <item>Designation3</item>
+    <item>Designation4</item>
+  </string-array >
+  
+</resources>
